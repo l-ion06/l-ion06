@@ -1,9 +1,6 @@
 ![Welcome GIF](http://imgur.com/b6qjhGm.gif)
 
 
-# 👋 Hi there! I'm LEE GEONHUI
-
-
 <!--
 **l-ion06/l-ion06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
