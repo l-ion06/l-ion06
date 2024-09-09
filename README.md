@@ -1,3 +1,6 @@
+![Welcome GIF](https://github.com/username/repo-name/blob/main/assets/welcome.gif)
+
+
 # 👋 Hi there! I'm LEE GEONHUI
 
 
