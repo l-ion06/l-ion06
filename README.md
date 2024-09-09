@@ -1,4 +1,4 @@
-# 👋 Hi there! This is GeonHui Lee Github Page!
+# 👋 Hi there! I'm LEE GEONHUI
 
 
 <!--
