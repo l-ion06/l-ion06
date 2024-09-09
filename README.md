@@ -1,4 +1,4 @@
-![Welcome GIF][(http://imgur.com/b6qjhGm.gif)](http://imgur.com/b6qjhGm.gif)
+![Welcome GIF](http://imgur.com/gJLpe84.gif)
 
 
 <!--
