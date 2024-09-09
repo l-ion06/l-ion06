@@ -1,4 +1,4 @@
-![Welcome GIF](https://github.com/username/repo-name/blob/main/assets/welcome.gif)
+![Welcome GIF](https://github.com/l-ion06/l-ion06/blob/main/assets/welcome.gif)
 
 
 # 👋 Hi there! I'm LEE GEONHUI
