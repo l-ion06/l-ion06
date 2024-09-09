@@ -1,4 +1,4 @@
-![Welcome GIF]([👋 Hi there! I'm LEE GEONHUI)](http://imgur.com/b6qjhGm.gif)
+![Welcome GIF]((http://imgur.com/b6qjhGm.gif)
 
 
 # 👋 Hi there! I'm LEE GEONHUI
