@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm LEE GEONHUI" title="👋 Hi there! I'm LEE GEONHUI"/>
+<img src="https://i.namu.wiki/i/IpVSj-BLH7WtjivfEInwSes-HO22iclfabXs6xh5dm8vJ_W5mXV9QTvPoIFFiLC2M4g2p_lQk0zWMgnAw09LXA.svg" alt="👋 Hi there! I'm LEE GEONHUI" title="👋 Hi there! I'm LEE GEONHUI"/>
 <div align="justify">
 
 
