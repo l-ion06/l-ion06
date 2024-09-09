@@ -1,10 +1,8 @@
 ![image](https://www.icegif.com/wp-content/uploads/2022/06/icegif-980.gif)
 
+![image](https://www.icegif.com/wp-content/uploads/2022/06/icegif-985.gif)
 
 
-
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
-<div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
