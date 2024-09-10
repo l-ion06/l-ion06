@@ -1,8 +1,3 @@
-<div>
-  <span>텍스트</span>
-</div>
-
-
 <a href="https://www.instagram.com/rzashakeri/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
