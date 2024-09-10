@@ -1,4 +1,4 @@
-![image](https://www.icegif.com/wp-content/uploads/2022/06/icegif-980.gif)
+
 
 
 <a href="https://www.instagram.com/rzashakeri/">
