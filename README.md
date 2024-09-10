@@ -1,5 +1,5 @@
 <a href="https://www.instagram.com/rzashakeri/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src="https://www.shutterstock.com/image-vector/social-media-instagram-logo-editorial-260nw-2411284425.jpg">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@rzashakeri">
