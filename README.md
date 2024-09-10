@@ -1,5 +1,5 @@
 <a href="https://www.instagram.com/l_ion.06/">
-<img src="instagram-logo.sketch">
+<img src="https://github.com/wle8300/instagram-logo/blob/master/instagram-logo.sketch">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@rzashakeri">
