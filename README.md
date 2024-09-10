@@ -1,5 +1,5 @@
 <a href="https://www.instagram.com/l_ion.06/">
-<img src="https://repository-images.githubusercontent.com/644084887/1d496b53-fbee-4561-be55-9878c9da1d5b">
+<img src="https://simpleicons.org/icons/instagram.svg">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@rzashakeri">
