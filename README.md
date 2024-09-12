@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://blog.naver.com/kor060722"><img src="https://img.shields.io/badge/NaverBlogger-00C73C?style=for-the-badge&logo=blogger&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kor060722.tistory.com/"><img src="https://img.shields.io/badge/Tistory-00C73C?style=for-the-badge&logo=blogger&logoColor=white"></a>
+<a href="https://kor060722.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://github.com/loosie/github-readme-tistory-card"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
