@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://kor060722.tistory.com/">
-  <img src="https://img.shields.io/badge/TISTORY-Visit-orange?logo=tistory&logoColor=white&style=flat" alt="티스토리" width="150" height="30">
+  <img src="https://img.shields.io/badge/-TISTORY-orange?logo=tistory&logoColor=white&style=flat-square" alt="티스토리" width="150" height="30">
 </a>
 
 
