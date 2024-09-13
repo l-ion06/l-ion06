@@ -10,8 +10,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-[![티스토리](https://tistory2.daumcdn.net/tistory/2083106/skin/3.0/img/btn_tistory.png)](https://tistory.com/)
-
+<a href="https://kor060722.tistory.com/">
+  <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY" alt="티스토리">
+</a>
 
 
 
