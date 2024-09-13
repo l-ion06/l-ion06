@@ -7,7 +7,7 @@
 <a href="https://blog.naver.com/kor060722"><img src="https://img.shields.io/badge/NaverBlogger-00C73C?style=for-the-badge&logo=blogger&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://kor060722.tistory.com/">
-  <img src="https://img.shields.io/badge/-TISTORY-orange?logo=tistory&logoColor=white&style=flat-square" alt="티스토리" width="100" height="25">
+  <img src="https://img.shields.io/badge/-TISTORY-orange?logo=tistory&logoColor=white&style=flat-square" alt="티스토리" width="120" height="25">
 </a>
 
 
