@@ -10,7 +10,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-
+<a href="https://tistory.com/" target="_blank">
+  <img src="https://tistory2.daumcdn.net/tistory/2083106/skin/3.0/img/btn_tistory.png" alt="티스토리" style="width: 100px; height: auto;">
+</a>
 
 
 
