@@ -1,13 +1,14 @@
 <a href="https://www.youtube.com/@allhove"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/l_ion.06/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://kor060722.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-orange?style=for-the-badge&logo=tistory&logoColor=white" alt="티스토리"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://blog.naver.com/kor060722"><img src="https://img.shields.io/badge/NaverBlogger-00C73C?style=for-the-badge&logo=blogger&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/geonhui-lee-71120b328/"><img src="https://img.shields.io/badge/Linkedin-0e76a8.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/l_ion.06/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 
