@@ -11,7 +11,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="justify">
-Welcome to my GitHub Page! I'm LEE GEONHUI.  I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+Welcome to My Github Page! I'm Lee Kun-hee, dreaming of becoming a Project Manager.
+I am currently a senior at Gongju Meister High School and I am learning about programming, networking, and cloud computing.
+If you want to know more about me, please refer to README.md and contact me on Instagram if you have any questions.
+Thank you.
 </p>
 
 ## My favorite tools and technologies ⚙️
