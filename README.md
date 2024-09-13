@@ -6,8 +6,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://blog.naver.com/kor060722"><img src="https://img.shields.io/badge/NaverBlogger-00C73C?style=for-the-badge&logo=blogger&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kor060722.tistory.com/"><img src="https://img.shields.io/badge/-TISTORY-orange?logo=tistory&logoColor=white&style=flat-square" alt="티스토리" width="120" height="25"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://kor060722.tistory.com/">
+  <img src="https://img.shields.io/badge/TISTORY-Visit-orange?style=for-the-badge&logo=tistory&logoColor=white" alt="티스토리">
+</a>
 
 
 
