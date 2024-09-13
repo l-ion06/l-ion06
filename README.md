@@ -9,10 +9,10 @@
 <a href="https://kor060722.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
 <a href="https://kor060722.tistory.com/">
-  <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY" alt="티스토리">
+  <img src="https://img.shields.io/badge/TISTORY-Visit-orange?logo=tistory&logoColor=white&style=flat" alt="티스토리" width="150" height="30">
 </a>
+
 
 
 
