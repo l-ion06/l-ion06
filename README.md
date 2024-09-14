@@ -89,6 +89,10 @@ Thank you.
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Nginx.svg" width="65" height="65">
       <br>Nginx
     </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" width="65" height="65">
+      <br>Redis
+    </td>
   </tr>
 </table>
 
