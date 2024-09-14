@@ -39,6 +39,14 @@ Thank you.
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Elasticsearch-Dark.svg" width="65" height="65">
       <br>Elasticsearch
     </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg" width="65" height="65">
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" width="65" height="65">
+      <br>FastAPI
+    </td>
   </tr>
 </table>
 
