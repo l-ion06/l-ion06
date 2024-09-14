@@ -24,7 +24,7 @@ Thank you.
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/tomchen/stack-icons/blob/master/logos/aws.svg" width="65" height="65">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width="65" height="65">
       <br>AWS
     </td>
     <td align="center" width="96">
