@@ -45,7 +45,15 @@ Thank you.
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" width="65" height="65">
-      <br>FastAPI
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="65" height="65">
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="65" height="65">
+      <br>GitHub
     </td>
   </tr>
 </table>
