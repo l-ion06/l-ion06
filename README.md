@@ -25,7 +25,7 @@ Thank you.
   <tr>
     <td align="center" width="96">
         <img src="https://github.com/tomchen/stack-icons/blob/master/logos/aws.svg">
-      <br>Amazon Web Service
+      <br>AWS
     </td>
     <td align="center" width="96">
         <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg">
