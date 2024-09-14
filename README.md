@@ -25,6 +25,7 @@ Thank you.
   <tr>
     <td align="center" width="96">
         <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg">
+      <br>Python
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
