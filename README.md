@@ -19,16 +19,12 @@ If you want to know more about me, please refer to README.md and contact me on I
 Thank you.
 </p>
 
-<img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg">
 
 ### These are the technologies that I can use! ⚙️
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+        <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg">
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
