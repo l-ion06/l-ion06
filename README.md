@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/l_ion.06/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### **<div align="center">👋 Hi there! Welcome everyone to Lee Geon-Hui's Github!**  
+### **<div align="center">👋 Hi there! Welcome everyone to Lee Geon-Hui's Github!** 👋
 
 <p align="justify">
 Welcome to My Github Page! I'm Lee Geon-Hui, dreaming of becoming a Project Manager.
