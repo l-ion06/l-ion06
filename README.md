@@ -57,7 +57,7 @@ Thank you.
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
       <br>Redis
     </td>
   </tr>
