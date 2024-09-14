@@ -49,11 +49,11 @@ Thank you.
       <br>Nginx
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="jquery" />
       <br>PostgreSQL
     </td>
   </tr>
