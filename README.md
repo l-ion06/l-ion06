@@ -62,9 +62,9 @@ Thank you.
     </td>
   </tr>
   <tr>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-      <br>Linux
+          <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+        <br>Linux
     </td>
   </tr>
  <tr>
