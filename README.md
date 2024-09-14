@@ -39,38 +39,6 @@ Thank you.
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Elasticsearch-Dark.svg" width="65" height="65">
       <br>Elasticsearch
     </td>
-
-
-    
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="65" height="65">
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="65" height="65">
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="65" height="65">
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="65" height="65">
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="65" height="65">
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="65" height="65">
-      <br>Docker
-    </td>
-
-
-
-
-    
   </tr>
 </table>
 
