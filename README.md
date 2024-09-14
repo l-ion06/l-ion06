@@ -19,7 +19,7 @@ If you want to know more about me, please refer to README.md and contact me on I
 Thank you.
 </p>
 
-## These are the technologies that I can use! ⚙️
+### These are the technologies that I can use! ⚙️
 <table>
   <tr>
     <td align="center" width="96">
