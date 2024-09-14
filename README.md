@@ -60,6 +60,36 @@ Thank you.
       <br>Go
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Grafana-Dark.svg" width="65" height="65">
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jenkins-Dark.svg" width="65" height="65">
+      <br>Jenkinss
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" width="65" height="65">
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="65" height="65">
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="65" height="65">
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="65" height="65">
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Nginx.svg" width="65" height="65">
+      <br>Nginx
+    </td>
+  </tr>
 </table>
 
 
