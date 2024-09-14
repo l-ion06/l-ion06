@@ -19,7 +19,7 @@ If you want to know more about me, please refer to README.md and contact me on I
 Thank you.
 </p>
 
-## My favorite tools and technologies ⚙️
+## These are the technologies that I can use! ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
