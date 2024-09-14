@@ -24,6 +24,10 @@ Thank you.
 <table>
   <tr>
     <td align="center" width="96">
+        <img src="https://github.com/tomchen/stack-icons/blob/master/logos/aws.svg">
+      <br>Amazon Web Service
+    </td>
+    <td align="center" width="96">
         <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg">
       <br>Python
     </td>
