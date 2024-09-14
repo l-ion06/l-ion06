@@ -19,6 +19,8 @@ If you want to know more about me, please refer to README.md and contact me on I
 Thank you.
 </p>
 
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg">
+
 ### These are the technologies that I can use! ⚙️
 <table>
   <tr>
