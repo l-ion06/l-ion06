@@ -20,9 +20,6 @@ Thank you.
 </p>
 
 ## These are the technologies that I can use! ⚙️
-
-> Tools and technologies that I have worked with and am interested in
-
 <table>
   <tr>
     <td align="center" width="96">
