@@ -16,7 +16,7 @@
 Welcome to My Github Page! I'm Lee Geon-Hui, dreaming of becoming a Project Manager.
 I am currently a senior at Gongju Meister High School and I am learning about programming, networking, and cloud computing.
 If you want to know more about me, please refer to README.md and contact me on Instagram if you have any questions.
-Thank you.
+Thank you. This account will be updated in the future and is currently being modified 😁😁😁
 </p>
 
 
